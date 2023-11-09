@@ -20,4 +20,6 @@ if __name__ == '__main__':
 #    print(password)
     print(my_function(2,4))
 
+    x = 3
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
